@@ -1,6 +1,6 @@
 # BingDorker 
 
-## Install Dependencies
+### Install Dependencies
 
 ```properties
 
