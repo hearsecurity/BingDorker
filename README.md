@@ -2,6 +2,9 @@
 
 ## Install Dependencies
 
-```vpkg install curl 
-   vpkg install pcre
+```properties
+
+vpkg install curl 
+vpkg install pcre
+
 ```
