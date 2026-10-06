@@ -4,8 +4,8 @@
 
 ```properties
 
-vpkg install curl 
-vpkg install pcre
+vcpkg install curl 
+vcpkg install pcre
 
 ```
 
